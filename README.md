@@ -51,7 +51,7 @@ The `MEMT/` directory is intentionally not stored in GitHub. Download the compan
 Run all commands from the repository root:
 
 ```bash
-git clone <GITHUB_REPOSITORY_URL>
+git clone https://github.com/dannalily/MEMT-Model-Editing-for-Targeted-Translation-Error-Repair.git
 cd MEMT-public-release
 python -m venv .venv
 source .venv/bin/activate
