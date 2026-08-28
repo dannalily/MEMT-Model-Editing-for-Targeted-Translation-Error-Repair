@@ -97,7 +97,7 @@ export HF_HOME="$HOME/.cache/huggingface"
 
 ## 2. Download and install the data
 
-Download the MEMT dataset from the Hugging Face dataset page, then copy the contents of its `data/` directory into `MEMT/`:
+Download the MEMT dataset from the [Hugging Face dataset page](https://huggingface.co/datasets/Dannalily/MEMT-bench), then copy the contents of its `data/` directory into `MEMT/`:
 
 ```bash
 mkdir -p MEMT
