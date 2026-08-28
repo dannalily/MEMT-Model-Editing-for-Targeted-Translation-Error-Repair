@@ -52,7 +52,7 @@ Run all commands from the repository root:
 
 ```bash
 git clone https://github.com/dannalily/MEMT-Model-Editing-for-Targeted-Translation-Error-Repair.git
-cd MEMT-public-release
+cd MEMT-Model-Editing-for-Targeted-Translation-Error-Repair
 python -m venv .venv
 source .venv/bin/activate
 ```
