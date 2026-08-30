@@ -149,7 +149,7 @@ python editing_code/edit_main.py \
   --tlang zh
 ```
 
-Available methods are `FT`, `ROME`, `MEMIT`, `AlphaEdit`, `UNKE`, `WISE`, and `GRACE`. The source language is `en` or `zh`; the target language can be `en`, `zh`, `ja`, `de`, `fr`, or `ar`. The YAML file must match the source language.
+Available methods are `FT`, `ROME`, `MEMIT`, `AlphaEdit`, `UNKE`, `WISE`, and `GRACE`. The editing code is based on [EasyEdit](https://github.com/zjunlp/EasyEdit). The source language is `en` or `zh`; the target language can be `en`, `zh`, `ja`, `de`, `fr`, or `ar`. The YAML file must match the source language.
 
 The causal-tracing-based layer settings are:
 

@@ -14,6 +14,9 @@ datasets. Please follow their original terms in addition to the MEMT license.
 
 ## Software and algorithms
 
+The editing code is based on [EasyEdit](https://github.com/zjunlp/EasyEdit).
+Please follow the upstream project's license and attribution requirements.
+
 The editing implementations are based on publicly described methods including
 FT, ROME, MEMIT, AlphaEdit, UNKE, WISE, and GRACE. Consult the corresponding
 papers and upstream implementations when redistributing or modifying those
